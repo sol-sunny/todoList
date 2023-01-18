@@ -1,5 +1,5 @@
 # TODO LIST
-![todoList](./images/todo.PNG)
+![todoList](./images/todo.PNG width="300" height="300")
 :clapper: 데모앱: [todo list](https://todolist-std.netlify.app/)
 ## :memo:기능
 + 유저가 input에 값을 입력한다
