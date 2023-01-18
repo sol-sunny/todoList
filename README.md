@@ -1,5 +1,5 @@
 # TODO LIST
-+ 아이템을 추가, 제거하고 상태별로 확인할 수 있는 앱
+:point_right:아이템을 추가, 제거하고 상태별로 확인할 수 있는 앱
 ![todoList](./images/todo.PNG)
 :clapper: 데모앱: [todo list](https://todolist-std.netlify.app/)
 ## :memo:기능
