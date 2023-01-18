@@ -1,0 +1,91 @@
+body {
+    margin: 0;
+    font-family: "Jua", sans-serif;
+    background-image: url("images/background.jpg");
+    background-size: cover;
+  }
+  
+  .container {
+    background-color: white;
+    min-height: 100vh;
+    max-width: 800px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px,
+      rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px,
+      rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+    border-top: 10px solid blanchedalmond;
+  }
+  
+  #task-input {
+    width: 80%;
+    height: 25px;
+    border: none;
+    border: 1px solid blanchedalmond;
+  }
+  
+  #add-button {
+    background-color: blanchedalmond;
+    border: none;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+  }
+  
+  .task-area {
+    border: 1px solid lightgray;
+    margin-top: 10px;
+  }
+  
+  .task-tabs {
+    display: flex;
+    position: relative;
+    cursor: pointer;
+  }
+  
+  .task-tabs div {
+    padding: 1em;
+    cursor: pointer;
+    display: flex;
+  }
+  
+  #under-line {
+    height: 4px;
+    width: 60px;
+    left: 0px;
+    top: 52px;
+    padding: 0px;
+    background-color: #ff7f50;
+    position: absolute;
+  }
+  
+  .task {
+    display: flex;
+    justify-content: space-between;
+    border-top: 1px solid lightgray;
+    padding: 1em; /*4면 공간주기*/
+  }
+  
+  .task-done {
+    text-decoration: line-through;
+    background-color: lightgray;
+    width: 100%;
+  }
+  
+  .button-box {
+    background-color: white;
+    display: flex;
+  }
+  
+  .button-box button {
+    height: 100%;
+    background-color: white;
+    border: none;
+    width: 5em;
+    margin: 0;
+  }
+  
+  .button-box button:first-child:hover {
+    color: greenyellow;
+  }
+  
+  .button-box button:nth-child(2):hover {
+    color: #ff7f50;
+  }
+  
