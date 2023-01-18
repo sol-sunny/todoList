@@ -1,5 +1,5 @@
 # TODO LIST
-![todoList](./image/numberGame.PNG)
+![todoList](./images/todo.PNG)
 + 데모앱: [todo list]()
 ## 기능
 + 유저가 input에 값을 입력한다
