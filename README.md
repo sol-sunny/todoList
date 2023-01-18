@@ -1,7 +1,7 @@
 # TODO LIST
 ![todoList](./images/todo.PNG)
-+ 데모앱: [todo list]()
-## 기능
+:clapper: 데모앱: [todo list](https://todolist-std.netlify.app/)
+## :memo:기능
 + 유저가 input에 값을 입력한다
 + plus버튼을 클릭하면, 할 일이 추가된다
 + delete버튼을 누르면 할 일이 삭제된다
@@ -11,7 +11,7 @@
 + All탭을 누르면 다시 All아이템으로 돌아온다
 + 반응형 UI
 
-## 사용한 기술
+## :hammer:사용한 기술
 + HTML
 + CSS
 + Vanila Javascript
